@@ -1,0 +1,26 @@
+Win a free prize!,spam
+Lowest prices guaranteed!,spam
+Call now for free!,spam
+Claim your exclusive offer now!,spam
+You've been selected to receive a $1000 gift card!,spam
+Earn money from home,spam
+Free entry in our competition!,spam
+Congratulations! You've won!,spam
+Urgent! Your account has been compromised!,spam
+Cheap loans available now!,spam
+Important update about your bank account,spam
+Exclusive deal just for you!,spam
+Limited time offer - act now!,spam
+Are we still meeting later?,not_spam
+Can you send me the report by EOD?,not_spam
+Let’s grab lunch tomorrow?,not_spam
+What time is the meeting?,not_spam
+I'll call you later,not_spam
+Meeting at 5?,not_spam
+Are we still on for lunch?,not_spam
+Please confirm your appointment,not_spam
+Did you receive my email?,not_spam
+Let's catch up this weekend,not_spam
+The documents are ready for review,not_spam
+Can you join the call at 3 PM?,not_spam
+NIgerian prince need help,spam
